@@ -1,0 +1,14 @@
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.exe.config
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.exe
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.pdb
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BankAcDelegation.csprojAssemblyReference.cache
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BankAcDelegation.csproj.CoreCompileInputs.cache
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.exe
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.pdb
+C:\Users\abdim\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.exe.config
+C:\Users\abdim\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.exe
+C:\Users\abdim\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.pdb
+C:\Users\abdim\source\repos\BnakAcc\BnakAcc\obj\Debug\BankAcDelegation.csprojAssemblyReference.cache
+C:\Users\abdim\source\repos\BnakAcc\BnakAcc\obj\Debug\BankAcDelegation.csproj.CoreCompileInputs.cache
+C:\Users\abdim\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.exe
+C:\Users\abdim\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.pdb

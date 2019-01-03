@@ -1,0 +1,7 @@
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.exe.config
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.exe
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\bin\Debug\BnakAcc.pdb
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.csprojAssemblyReference.cache
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.csproj.CoreCompileInputs.cache
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.exe
+C:\Users\НурбаевБ\source\repos\BnakAcc\BnakAcc\obj\Debug\BnakAcc.pdb
